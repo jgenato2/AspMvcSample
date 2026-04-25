@@ -1,0 +1,15 @@
+d:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+d:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\Application.AssemblyInfoInputs.cache
+d:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\Application.AssemblyInfo.cs
+d:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\Application.csproj.CoreCompileInputs.cache
+d:\Mac\SourceCode\AspMvcSample\Application\bin\Debug\net10.0\Application.deps.json
+d:\Mac\SourceCode\AspMvcSample\Application\bin\Debug\net10.0\Application.dll
+d:\Mac\SourceCode\AspMvcSample\Application\bin\Debug\net10.0\Application.pdb
+d:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\Application.dll
+d:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\refint\Application.dll
+d:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\Application.pdb
+d:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\ref\Application.dll
+d:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\Application.csproj.AssemblyReference.cache
+d:\Mac\SourceCode\AspMvcSample\Application\bin\Debug\net10.0\Domain.dll
+d:\Mac\SourceCode\AspMvcSample\Application\bin\Debug\net10.0\Domain.pdb
+d:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\Applicat.44B5EDA2.Up2Date

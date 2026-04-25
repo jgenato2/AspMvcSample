@@ -1,0 +1,23 @@
+@model IEnumerable<AspMvcSample.Application.DTOs.DepartmentDto>
+@{
+    ViewBag.Title = "Departments";
+}
+<h2>Departments</h2>
+<a href="@Url.Action("Create")">Create New</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Company</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.CompanyName</td>
+        </tr>
+    }
+    </tbody>
+</table>

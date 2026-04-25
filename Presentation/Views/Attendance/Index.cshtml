@@ -1,0 +1,27 @@
+@model IEnumerable<AspMvcSample.Application.DTOs.AttendanceDto>
+@{
+    ViewBag.Title = "Attendance";
+}
+<h2>Attendance</h2>
+<a href="@Url.Action("Create")">Record Attendance</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Employee</th>
+            <th>Date</th>
+            <th>Present</th>
+            <th>Remarks</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.EmployeeName</td>
+            <td>@item.Date.ToShortDateString()</td>
+            <td>@item.Present</td>
+            <td>@item.Remarks</td>
+        </tr>
+    }
+    </tbody>
+</table>

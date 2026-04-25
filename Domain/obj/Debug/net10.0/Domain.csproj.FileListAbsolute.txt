@@ -1,0 +1,11 @@
+d:\Mac\SourceCode\AspMvcSample\Domain\bin\Debug\net10.0\Domain.deps.json
+d:\Mac\SourceCode\AspMvcSample\Domain\bin\Debug\net10.0\Domain.dll
+d:\Mac\SourceCode\AspMvcSample\Domain\bin\Debug\net10.0\Domain.pdb
+d:\Mac\SourceCode\AspMvcSample\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\Mac\SourceCode\AspMvcSample\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+d:\Mac\SourceCode\AspMvcSample\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+d:\Mac\SourceCode\AspMvcSample\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+d:\Mac\SourceCode\AspMvcSample\Domain\obj\Debug\net10.0\Domain.dll
+d:\Mac\SourceCode\AspMvcSample\Domain\obj\Debug\net10.0\refint\Domain.dll
+d:\Mac\SourceCode\AspMvcSample\Domain\obj\Debug\net10.0\Domain.pdb
+d:\Mac\SourceCode\AspMvcSample\Domain\obj\Debug\net10.0\ref\Domain.dll

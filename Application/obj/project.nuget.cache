@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L2l8ky6e83w=",
+  "success": true,
+  "projectFilePath": "D:\\Mac\\SourceCode\\AspMvcSample\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julius Mark Genato\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.7\\microsoft.extensions.dependencyinjection.10.0.7.nupkg.sha512",
+    "C:\\Users\\Julius Mark Genato\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfoInputs.cache
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfo.cs
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.CoreCompileInputs.cache
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.AssemblyReference.cache
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\bin\Debug\net10.0\Infrastructure.deps.json
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\bin\Debug\net10.0\Infrastructure.dll
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\bin\Debug\net10.0\Infrastructure.pdb
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\bin\Debug\net10.0\Application.dll
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\bin\Debug\net10.0\Domain.dll
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\bin\Debug\net10.0\Application.pdb
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\bin\Debug\net10.0\Domain.pdb
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\Infrastr.15EFFBFE.Up2Date
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\Infrastructure.dll
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
+d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll
