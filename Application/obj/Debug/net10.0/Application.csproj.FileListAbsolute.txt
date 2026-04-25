@@ -13,3 +13,4 @@ d:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\Application.csproj.
 d:\Mac\SourceCode\AspMvcSample\Application\bin\Debug\net10.0\Domain.dll
 d:\Mac\SourceCode\AspMvcSample\Application\bin\Debug\net10.0\Domain.pdb
 d:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\Applicat.44B5EDA2.Up2Date
+D:\Mac\SourceCode\AspMvcSample\Application\obj\Debug\net10.0\Application.sourcelink.json

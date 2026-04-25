@@ -15,3 +15,4 @@ d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\Infrastructure.d
 d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
 d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
 d:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll
+D:\Mac\SourceCode\AspMvcSample\Infrastructure\obj\Debug\net10.0\Infrastructure.sourcelink.json
